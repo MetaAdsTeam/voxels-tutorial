@@ -35,27 +35,37 @@ This document is an instruction on how to create a scene for Voxel.
 * Click on Create  
 ## 7. 
 ![Image](./media/6.png)
+## 8.
 * Click on Visit
+## 9.
 ![Image](./media/7.png)
 * Click on Cubes icon
 * Click on Browse Asset Library
 * Click on Meta Ads asset (if not listed, enter the name in the search)
 * Click on Add to parcel
+## 10.
 ![Image](./media/8.png)
+## 11.
 * Position the object on the land
+## 12.
 ![Image](./media/9.png)
+## 13.
 * Paste downloaded script to Script field
+## 14.
 ![Image](./media/10.png)
+## 15.
 * If the red circle next to the Expand button doesn't turn green, reload the page (if the circle turns green, close this form)
 "Click to register ad space" text is displayed on screen
 * Click on Screen
+## 16.
 ![Image](./media/11.png)
 * Click on Open
 * Click on OK
+## 17.
 ![Image](./media/12.png)
 * Enter name
 * Enter description
 * Upload picture
-* Click on Save
+* Click on Save  
 <u>EXPECTED STATE</u>: Voxel ad space displayed in list
 You can start campaigns. Available for voxel - picture creatives, video creatives, YouTube stream, twitch stream.
