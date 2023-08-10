@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document is an instruction on how to create a scene for Voxel.
+This document is an instruction on how to create a scene for Voxels.
 
 ## 1. Opening the MetaAds website
 
@@ -12,19 +12,20 @@ This document is an instruction on how to create a scene for Voxel.
 
 ## 2. Going to Voxels
 
-![Image](./media/1.png)
+![Image](./media/12.png)
+![Image](./media/13.png)
 
 * Click on Add Ad Space
-* Choose Voxel metaverse
+* Choose Voxels metaverse
 * Click on Download
     * Save file on PC
 * Click on To Voxels button
 
-## 3. Connecting with MetaMask
+## 3. Connecting to Voxels
 
 ![Image](./media/2.png)
 
-* Click on Sign In
+* Click on Log In
 * Select a wallet and log in
 
 ## 4. Creating a space
@@ -73,5 +74,5 @@ This document is an instruction on how to create a scene for Voxel.
 
 ![Image](./media/11.png)
 
-> <u>EXPECTED STATE</u>: The created Voxels Ad Space  will appear on the My Ad Spaces tab. You can start campaigns. Available for Voxels - picture creatives, video creatives, YouTube, Twitch streams.
+> <u>EXPECTED STATE</u>: The created Voxels Ad Space  will appear on the My Ad Spaces tab. You can start campaigns. Available for Voxels - image creatives, video creatives, YouTube, Twitch streams.
 
