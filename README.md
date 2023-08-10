@@ -12,6 +12,7 @@ This document is an instruction on how to create a scene for Voxels.
 
 ## 2. Going to Voxels
 
+![Image](./media/14.png)
 ![Image](./media/12.png)
 ![Image](./media/13.png)
 
