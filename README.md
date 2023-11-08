@@ -80,7 +80,7 @@ This document is an instruction on how to create a scene for *Voxels*.
 > "Create New Ad Space" pop up on **Meta Ads** website will be open
 
 * Enter Name
-* Enter Exernal target link (is optional)
+* Enter External target link (is optional)
 * Enter description
 * Enter jump URL (is optional)
 * Upload Preview Image
