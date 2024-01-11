@@ -12,79 +12,79 @@ This document is an instruction on how to create a scene for *Voxels*.
 
 ## 2. Going to [*Voxels*](https://www.voxels.com/?ref=)
 
+* Click on Add Ad Space
+
 ![Image](./media/14.png)
 
-* Click on Add Ad Space
+* Click on Select Metaverse (1)
+* Choose *Voxels* metaverse (2)
 
 ![Image](./media/12.png)
 
-* Click on Select Metaverse
-* Choose *Voxels* metaverse
+* Click on Download and save file on PC (3)
+* Click on To *Voxels* button
 
 ![Image](./media/13.png)
 
-
-* Click on Download    
-    * Save file on PC
-* Click on To *Voxels* button
-
 ## 3. Connecting to *Voxels*
-
-![Image](./media/2.png)
 
 * Click on Log In
 * Select a wallet and log in
 
+![Image](./media/2.png)
+
 ## 4. Creating a space
+
+* Click on Spaces (1)
+* Click on Create a space (2)
 
 ![Image](./media/3.png)
 
-* Click on Spaces
-* Click on Create a space
+* Enter Name (3)
+* Choose a size of scene (4)
+* Click on Create (5) 
 
 ![Image](./media/4.png) 
 
-* Enter Name
-* Choose a size of scene
-* Click on Create  
-
 ## 5. Adding the **Meta Ads** asset
+
+* Click on Add (1)
+* Click on Browse Asset Library (2)
+* Click on **Meta Ads** asset (if not listed, enter the name in the search) (3)
+* Click on Add to Parcel (4)
 
 ![Image](./media/6.png)
 
-* Click on Add
-* Click on Browse Asset Library
-* Click on **Meta Ads** asset (if not listed, enter the name in the search)
-* Click on Add to Parcel
+* Position the object on the land (5)
 
-![Image](./media/7.png)
-
-* Position the object on the land 
-
-![Image](./media/8.png)
+![Image](./media/7.png) 
 
 * Click on Advanced 
-* Insert downloaded script to Script field 
+* Insert downloaded script to Script field (6)
+
+
+![Image](./media/8.png)
 
 > If the red circle next to the Expand button doesn't turn green, reload the page (if the circle has turned green, close this form).
 
 ## 6. Completing the creation of the scene
 
-![Image](./media/9.png)
-
 * Click on **Meta Ads** Screen
 * Click on external link
 
-![Image](./media/10.png)
+![Image](./media/9.png)
 
 > "Create New Ad Space" pop up on **Meta Ads** website will be open
 
-* Enter Name
-* Enter External target link (is optional)
-* Enter description
-* Enter jump URL (is optional)
-* Upload Preview Image
+* Enter Name (1)
+* Enter External target link (is optional) (2)
+* Enter Description (3)
+* Enter jump URL (is optional) (4)
+* Upload Preview Image (5)
 * Click on Save
+* You can choose to enable moderation or not (is optional)
+
+![Image](./media/10.png)
 
 ![Image](./media/11.png)
 
