@@ -94,5 +94,5 @@
 
 ![Image](./media/11.png)
 
-    EXPECTED STATE: The created Voxels Ad Space  will appear on the My Ad Spaces tab. You can start campaigns. Available for Voxels - image creatives, video creatives, YouTube and Twitch streams.
+> EXPECTED STATE: The created Voxels Ad Space  will appear on the My Ad Spaces tab. You can start campaigns. Available for Voxels - image creatives, video creatives, YouTube and Twitch streams.
 
