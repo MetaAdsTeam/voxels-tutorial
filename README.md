@@ -86,7 +86,7 @@
 * Enter External target link (is optional) (2)
 * Enter Description (3)
 * Enter jump URL (is optional) (4)
-* Upload Preview Image (5)
+* Upload Preview Image (This is the image that will be displayed on the site with the created Ad Space)(5)
 * Click on Save
 * You can choose to enable moderation or not (is optional)
 
