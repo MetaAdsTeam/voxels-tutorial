@@ -87,8 +87,8 @@
 * Enter Description (3)
 * Enter jump URL (is optional) (4)
 * Upload Preview Image (This is the image that will be displayed on the site with the created Ad Space)(5)
-* Click on Save
 * You can choose to enable moderation or not (is optional)
+* Click on Save
 
 ![Image](./media/10.png)
 
