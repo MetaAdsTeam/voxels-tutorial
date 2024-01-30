@@ -2,13 +2,13 @@
 
 ## Introduction
 
-    This document is an instruction on how to create a scene for Voxels.
+ This document is an instruction on how to create a scene for *Voxels*.
 
 ## 1. Opening the [**MetaAds**](https://metaads.team/main/) website
 
 * Connect
-* Click on Landowner
-* Click on My Ad Spaces
+* Click on *Landowner*
+* Click on *My Ad Spaces*
 
 ## 2. Going to [*Voxels*](https://www.voxels.com/?ref=)
 
@@ -64,7 +64,7 @@
 ![Image](./media/7.png) 
 ##
 
-* Click on Advanced 
+* Click on *Advanced* 
 * Insert downloaded script to Script field (6)
 
 
@@ -82,17 +82,18 @@
 
 > "Create New Ad Space" pop up on **Meta Ads** website will be open
 
-* Enter Name (1)
-* Enter External target link (is optional) (2)
-* Enter Description (3)
-* Enter jump URL (is optional) (4)
-* Upload Preview Image (This is the image that will be displayed on the site with the created Ad Space)(5)
-* You can choose to enable moderation or not (is optional)
+* Enter *Name* (1)
+* Enter *External target link* (is optional) (2)
+* Enter *Description* (3)
+* Enter *jump URL* (is optional) (4)
+* Upload *Preview Image* (This is the image that will be displayed on the site with the created Ad Space)(5)
+* You can choose to enable *moderation* or not (is optional)
 * Click on Save
 
 ![Image](./media/10.png)
+> In the last step, enter *Cost per minute* on your *Ad Space*.
 
 ![Image](./media/11.png)
 
-> EXPECTED STATE: The created Voxels Ad Space  will appear on the My Ad Spaces tab. You can start campaigns. Available for Voxels - image creatives, video creatives, YouTube and Twitch streams.
+> EXPECTED STATE: The created *Voxels* **Ad Space**  will appear on the *My Ad Spaces* tab. You can start campaigns. Available for *Voxels* - image creatives, video creatives, **YouTube** and **Twitch** streams.
 
