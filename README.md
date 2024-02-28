@@ -17,44 +17,44 @@
 ![Image](./media/14.png)
 ##
 
-* Click on Select Metaverse (1)
+* Click on *Select Metaverse* (1)
 * Choose *Voxels* metaverse (2)
 
 ![Image](./media/12.png)
 ##
 
-* Click on Download and save file on PC (3)
-* Click on To *Voxels* button
+* Click on *Download* and save file on PC (3)
+* Click on *To Voxels* button
 
 ![Image](./media/13.png)
 
 ## 3. Connecting to *Voxels*
 
-* Click on Log In
+* Click on *Log In*
 * Select a wallet and log in
 
 ![Image](./media/2.png)
 
 ## 4. Creating a space
 
-* Click on Spaces (1)
-* Click on Create a space (2)
+* Click on *Spaces* (1)
+* Click on *Create a space* (2)
 
 ![Image](./media/3.png)
 ##
 
 * Enter Name (3)
 * Choose a size of scene (4)
-* Click on Create (5) 
+* Click on *Create!* (5) 
 
 ![Image](./media/4.png) 
 
 ## 5. Adding the **Meta Ads** asset
 
-* Click on Add (1)
-* Click on Browse Asset Library (2)
+* Click on *Add* (1)
+* Click on *Browse Asset Library* (2)
 * Click on **Meta Ads** asset (if not listed, enter the name in the search) (3)
-* Click on Add to Parcel (4)
+* Click on *Add to Parcel* (4)
 
 ![Image](./media/6.png)
 ##
