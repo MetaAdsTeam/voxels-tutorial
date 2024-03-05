@@ -83,12 +83,13 @@
 > "Create New Ad Space" pop up on **Meta Ads** website will be open
 
 * Enter *Name* (1)
-* Enter *External target link* (is optional) (2)
+* Enter *External target link* (Default link when clicking on the screen and it is optional) (2)
 * Enter *Description* (3)
-* Enter *jump URL* (is optional) (4)
-* Upload *Preview Image* (This is the image that will be displayed on the site with the created Ad Space)(5)
+* Enter *jump URL* (Link to a scene in the metaverse and it is optional) (4)
+* Upload *Preview Image* (This is the image that will be displayed on the site with the created Ad Space) (5)
+* Upload *Default Ad Image* (This is the image that will be shown on the screen by default, if it is not there, then it will be shown *Meta Ads* icon and it is optional) (6)
 * You can choose to enable *moderation* or not (is optional)
-* Click on Save
+* Click on *Save*
 
 ![Image](./media/10.png)
 > In the last step, enter *Cost per minute* on your *Ad Space*.
